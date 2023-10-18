@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Grafo
+comment1.params=
+comment1.target=Grafo()
+comment2.params=v
+comment2.target=void\ adicionarVertice(int)
+comment3.params=v1\ v2
+comment3.target=void\ adicionarAresta(int,\ int)
+comment4.params=v1\ v2
+comment4.target=boolean\ saoVizinhos(int,\ int)
+comment5.params=v
+comment5.target=java.util.List\ obterVizinhos(int)
+numComments=6
